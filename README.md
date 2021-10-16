@@ -36,4 +36,10 @@ GigaByte gigaByte = GigaByte(0.8); // 800000000 bytes [Instance of MegaByte]
 10.gb * 2 // 4.gb
 5.gb * 1 // 5.gb
 
+// equation
+10.gb == 10000.mb // true
+
+10.gb >= 10000.mb // true
+10.gb >= 5000.mb // false
+
 ```
