@@ -41,6 +41,7 @@ GigaByte gigaByte = GigaByte(0.8); // 800000000 bytes [Instance of MegaByte]
 
 10.gb < 9000.mb // false
 10.gb >= 10000.mb // true
+
 5.gb < 10000.mb // true
 10.gb <= 5000.mb // false
 
